@@ -1,0 +1,15 @@
+Original image's shape: (2057, 2723, 3)
+
+Gray scale image's shape: (2057, 2723, 1)
+
+Down sampled gray scale image's shape: (1440, 1906, 1)
+
+Up sampled gray scale image's shape: (2057, 2723, 1)
+
+=======================================================
+
+Sum of Square Error of reconstruction: 63583531
+
+Mean Square Error of reconstruction: 11.351747148964751
+
+=======================================================
