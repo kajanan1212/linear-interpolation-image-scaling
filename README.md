@@ -1,6 +1,6 @@
 # Image Scaling Using Linear Interpolation
 
-A Python script for image scaling implemented using a linear interpolation algorithm, with a primary focus on NumPy for efficient data manipulation. OpenCV is used only for image loading and saving.
+A Python script for image scaling implemented using the linear interpolation algorithm, with a primary focus on NumPy for efficient data manipulation. OpenCV is used only for image loading and saving.
 
 ## The script to do the following
 
